@@ -7,7 +7,7 @@
     font-size: 25px;
     /* background-image: linear-gradient(to left,#201b21,#01214d,#201b21); */
     height: 8%;
-    padding-top: 20px;
+    /* padding-top: 20px; */
     /* margin-top: 10px; */
 }
 
@@ -31,6 +31,7 @@
     width: 170px;
 }
 
+
 .homepage-background {
     background-image: linear-gradient(to left,#201b21,#01214d,#201b21);
     color: White;
@@ -47,10 +48,6 @@
 .homePage-image-card-Styling{
     width: 100%;
     margin-bottom: 65px;
-}
-
-.homePage-carousel-button{
-    color: rgb(41, 38, 38);
 }
 
 .homepage-h1{
