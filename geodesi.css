@@ -2,6 +2,7 @@
 
 .containers{
     padding-top: 7%;
+    padding-bottom: 7%;
     /* padding-left: 9%; */
     background-image: linear-gradient(to left,#201b21,#01214d,#201b21);
     color: White;
