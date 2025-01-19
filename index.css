@@ -247,6 +247,10 @@
     font-weight: bold;
 }
 
+.image-team-card{
+    width: 280px;
+}
+
 .service-html-sheet-stlying{
     width: 100%;
     padding-top: 15%;
