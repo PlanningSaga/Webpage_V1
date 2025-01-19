@@ -6,7 +6,8 @@
     /* padding-left: 9%; */
     background-image: linear-gradient(to left,#201b21,#01214d,#201b21);
     color: White;
-    background-size: cover;
+    background-size: auto;
+    height: 100vh;
     text-align: center;
     font-family: Helvetica;
 }
@@ -14,6 +15,12 @@
 .video{
     width: 78%;
 }
+
+.video1{
+    width: 78%;
+    margin-top: 37vh;
+}
+
 
 .navbar-Styling{
     margin: auto;
